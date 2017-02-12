@@ -1,0 +1,15 @@
+  <CPEState>
+    <eventMask>0x0000</eventMask>
+    <acsURL>https://49.40.8.54:8443/ftacs-digest/ACS</acsURL>
+    <acsUser>RelianceJio</acsUser>
+    <acsPW>Jdev_1214</acsPW>
+    <informEnabled>1</informEnabled>
+    <informInterval>30</informInterval>
+    <STUNEnable>0</STUNEnable>
+    <STUNServerAddress>stun.gatespace.net</STUNServerAddress>
+    <STUNServerPort>3478</STUNServerPort>
+    <STUNUsername></STUNUsername>
+    <STUNPassword></STUNPassword>
+    <STUNMaxKeepAlive>90</STUNMaxKeepAlive>
+    <STUNMinKeepAlive>30</STUNMinKeepAlive>
+  </CPEState>
